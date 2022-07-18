@@ -13,7 +13,7 @@ European Conference on Computer Vision (ECCV), 2022
 ## Framework
 
 <p align="center">
-  <img src="doc/frame.png" width="50%"/>
+  <img src="doc/frame.png" width="100%"/>
 </p>
 
 ## Checklist
