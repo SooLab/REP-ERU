@@ -6,9 +6,7 @@ European Conference on Computer Vision (ECCV), 2022
 
 ## Introduction
 
-<p align="center">
-  <img src="fig1 (1).pdf" width="50%"/>
-</p>
+![](fig1 (1).pdf)
 
 ## Checklist
 
