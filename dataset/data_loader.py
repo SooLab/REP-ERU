@@ -260,7 +260,7 @@ class ReferDataset(data.Dataset):
 
         # ht = cv2.resize(ht, (512, 512))
 
-        ptdir = self.im_dir.replace('images', 'depimg') #'/public/home/shicheng/depth'
+        ptdir = self.im_dir.replace('images', 'depimg')
         ptfile = img_file #.replace('.jpg', '_depth.png')
         pt_path = osp.join(ptdir, ptfile)
         pt = cv2.imread(pt_path)
@@ -276,7 +276,7 @@ class ReferDataset(data.Dataset):
         sal = cv2.resize(sal, (256,256))
         #sal = np.reshape(sal, (3, 256, 256))
 
-        gestdir = '/remote-home/shicheng/bodysegment'
+        gestdir = 'ln_data/bodysegment'
         gestfile = img_file.replace('.jpg' , '_seg.png')
         gest_path = osp.join(gestdir,gestfile)
         gest = cv2.imread(gest_path)
