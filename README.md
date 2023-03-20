@@ -27,7 +27,6 @@ Download the YouRefIt dataset from [Dataset Request Page](https://yixchen.github
     ```
     sh saved_models/yolov3_weights.sh
     ```
-* More pretrained models are availble [Google drive](https://drive.google.com/drive/folders/1jphUV6if1ka3LyCxXMPbNB65n26Y7nNH?usp=sharing), and should also be placed in ``./saved_models``.
 
 Make sure to put the files in the following structure:
 
@@ -38,9 +37,7 @@ Make sure to put the files in the following structure:
 |			|-- images
 |			|-- paf
 |			|-- saliency
-|	|-- saved_modeks
-|		|-- final_model_full.tar
-|		|-- final_resc.tar
+```
 
 ### Citation
 
