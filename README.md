@@ -16,6 +16,18 @@ European Conference on Computer Vision (ECCV), 2022
   <img src="doc/frame.png" width="100%"/>
 </p>
 
-## Checklist
+### Citation
 
-+ [ ] Code
+    @inproceedings{shi2022spatial,
+      title={Spatial and Visual Perspective-Taking via View Rotation and Relation Reasoning for Embodied Reference Understanding},
+      author={Shi, Cheng and Yang, Sibei},
+      booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XXXVI},
+      pages={201--218},
+      year={2022},
+      organization={Springer}
+    }
+
+### Acknowledgement
+Our code is built on [ReSC](https://github.com/zyang-ur/ReSC) and [YouRefIt](https://github.com/yixchen/YouRefIt_ERU), we thank the authors for their hard work.
+
+
