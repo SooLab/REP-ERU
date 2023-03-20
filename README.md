@@ -39,6 +39,14 @@ Make sure to put the files in the following structure:
 |			|-- saliency
 ```
 
+## Training and Evaluation
+The training and evaluation script is the same as [YouRefIt](https://github.com/yixchen/YouRefIt_ERU)
+
+## Checklist
+
++ [x] code
++ [ ] pre-process data
+
 ### Citation
 
     @inproceedings{shi2022spatial,
